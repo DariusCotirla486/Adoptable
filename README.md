@@ -10,3 +10,5 @@ Key features:
   - Intuitive Qt GUI – Dynamically generates windows and interactive elements using C++, providing a seamless user experience.
   - Robust Data Validation – Ensures accurate input handling and prevents errors.
   - Flexible File Export – Saves the user's adopted pet list in either CSV or HTML format, based on user preference.
+
+Technologies used: C++, Qt
